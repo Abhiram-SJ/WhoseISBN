@@ -1,5 +1,5 @@
 # WhoseISBN
-A simple python PySimpleGUI based book detail fetcher using ISBN
+A simple python GUI based book detail fetcher using ISBN
 
 python version 3.10
 
